@@ -409,4 +409,20 @@ footer .input-group-text {
   color: var(--color-1c1c1b);
   margin-bottom: 15px;
 }
+
+/* --- colors start */
+.colors {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.colors li {
+  width: 20px;
+  height: 20px;
+  background: red;
+  border-radius: 50%;
+}
+/* --- colors end */
 /* Our Store end */
